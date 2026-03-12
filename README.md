@@ -4,15 +4,15 @@
 🎓 **Machine Learning Engineer | Bioinformatician | AI Safety Research Enthusiast**  
 
 🚀 Passionate about merging **Artificial Intelligence** with **Bioinformatics** to drive breakthroughs in healthcare and computational biology.  
-💡 Currently preparing for my **M.Sc. in Computational Health Informatics**.  
+💡 Currently studying **M.Sc. in Artificial Inteligence**.  
 
 ---
 
 ## 🔬 About Me
 - 🎓 Bachelor of Computers and AI (Bioinformatics), cGPA: 3.5/4.0  
 - 🏆 Graduation project: **Deep Learning for Automated Coronary Artery Disease (CAD) Diagnosis** (A+ grade)  
-- 🧬 Experience in **multi-omics data integration, RNA-Seq, transcriptomics, and genomics**  
-- 🌍 Internship experience: **DEPI**, **National Research Center**, and **57357 Hospital Foundation**  
+- 🧬 Experience in **Deep Learning, Machine Learning, multi-omics data integration, RNA-Seq, transcriptomics, and genomics**  
+- 🌍 Internship experience: **DEBI**, **DEPI**, **National Research Center**, and **57357 Hospital Foundation**  
 - ✨ Interests: AI for healthcare, cooperative AI, cancer genomics, and AI safety research  
 
 ---
