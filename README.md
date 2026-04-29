@@ -1,7 +1,7 @@
 <!-- Banner with waving hand -->
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> <span style="font-size:32px; font-weight:bold;">Hey, I'm Ahmed Jaber</span> 
 
-🎓 **Machine Learning Engineer | Bioinformatician | AI Safety Research Enthusiast**  
+🎓 **Machine Learning Engineer | Bioinformatician | AI Research Enthusiast**  
 
 🚀 Passionate about merging **Artificial Intelligence** with **Bioinformatics** to drive breakthroughs in healthcare and computational biology.  
 💡 Currently studying **M.Sc. in Artificial Inteligence**.  
@@ -9,6 +9,7 @@
 ---
 
 ## 🔬 About Me
+- 🧑🏼‍🎓 M.Sc. student at faculty of Computers and AI, Benha University
 - 🎓 Bachelor of Computers and AI (Bioinformatics), cGPA: 3.5/4.0  
 - 🏆 Graduation project: **Deep Learning for Automated Coronary Artery Disease (CAD) Diagnosis** (A+ grade)  
 - 🧬 Experience in **Deep Learning, Machine Learning, multi-omics data integration, RNA-Seq, transcriptomics, and genomics**  
